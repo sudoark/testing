@@ -1,0 +1,30 @@
+/* .animation-wrapper {
+  position: absolute; 
+  bottom: -90px; 
+  right: -60px; 
+  margin-bottom: 125px;
+}
+
+#globe-3d, #globe-2d-overlay {
+  display: block;
+  position: absolute;
+}
+#globe-2d-overlay {
+  pointer-events: none;
+} */
+/* .cube3d {
+  height: 120%;
+  width: 120%;
+  position: absolute; 
+  bottom: -60px; 
+  right: -285px; 
+  /* margin-bottom: 150px;
+}*/
+.cube3d {
+  height: 415px;
+  width: 355px;
+  position: absolute; 
+  bottom: 40px; 
+  right: -25px; 
+  /* margin-bottom: 150px; */
+}
